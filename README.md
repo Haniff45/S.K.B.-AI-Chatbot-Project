@@ -684,5 +684,5 @@ For the best experience, please ensure stable internet connection and modern web
 
 ---
 
-*Last Updated: November 2024*  
+*Last Updated: November 2025*  
 *Maintained by: Rehlah International Travel & Tours Sdn. Bhd.*
